@@ -1,0 +1,238 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BOOSEapp
+  name: BOOSEapp
+  href: boose/BOOSEapp.html
+  commentId: N:BOOSEapp
+  fullName: BOOSEapp
+  nameWithType: BOOSEapp
+- uid: BOOSEapp.AppCircle
+  name: AppCircle
+  href: boose/BOOSEapp.AppCircle.html
+  commentId: T:BOOSEapp.AppCircle
+  fullName: BOOSEapp.AppCircle
+  nameWithType: AppCircle
+- uid: BOOSEapp.AppCircle.#ctor
+  name: AppCircle()
+  href: boose/BOOSEapp.AppCircle.html#BOOSEapp_AppCircle__ctor
+  commentId: M:BOOSEapp.AppCircle.#ctor
+  name.vb: New()
+  fullName: BOOSEapp.AppCircle.AppCircle()
+  fullName.vb: BOOSEapp.AppCircle.New()
+  nameWithType: AppCircle.AppCircle()
+  nameWithType.vb: AppCircle.New()
+- uid: BOOSEapp.AppCircle.#ctor(BOOSE.Canvas,System.Int32)
+  name: AppCircle(Canvas, int)
+  href: boose/BOOSEapp.AppCircle.html#BOOSEapp_AppCircle__ctor_BOOSE_Canvas_System_Int32_
+  commentId: M:BOOSEapp.AppCircle.#ctor(BOOSE.Canvas,System.Int32)
+  name.vb: New(Canvas, Integer)
+  fullName: BOOSEapp.AppCircle.AppCircle(BOOSE.Canvas, int)
+  fullName.vb: BOOSEapp.AppCircle.New(BOOSE.Canvas, Integer)
+  nameWithType: AppCircle.AppCircle(Canvas, int)
+  nameWithType.vb: AppCircle.New(Canvas, Integer)
+- uid: BOOSEapp.AppCircle.#ctor*
+  name: AppCircle
+  href: boose/BOOSEapp.AppCircle.html#BOOSEapp_AppCircle__ctor_
+  commentId: Overload:BOOSEapp.AppCircle.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEapp.AppCircle.AppCircle
+  fullName.vb: BOOSEapp.AppCircle.New
+  nameWithType: AppCircle.AppCircle
+  nameWithType.vb: AppCircle.New
+- uid: BOOSEapp.AppCircle.Execute
+  name: Execute()
+  href: boose/BOOSEapp.AppCircle.html#BOOSEapp_AppCircle_Execute
+  commentId: M:BOOSEapp.AppCircle.Execute
+  fullName: BOOSEapp.AppCircle.Execute()
+  nameWithType: AppCircle.Execute()
+- uid: BOOSEapp.AppCircle.Execute*
+  name: Execute
+  href: boose/BOOSEapp.AppCircle.html#BOOSEapp_AppCircle_Execute_
+  commentId: Overload:BOOSEapp.AppCircle.Execute
+  isSpec: "True"
+  fullName: BOOSEapp.AppCircle.Execute
+  nameWithType: AppCircle.Execute
+- uid: BOOSEapp.AppDrawTo
+  name: AppDrawTo
+  href: boose/BOOSEapp.AppDrawTo.html
+  commentId: T:BOOSEapp.AppDrawTo
+  fullName: BOOSEapp.AppDrawTo
+  nameWithType: AppDrawTo
+- uid: BOOSEapp.AppDrawTo.#ctor
+  name: AppDrawTo()
+  href: boose/BOOSEapp.AppDrawTo.html#BOOSEapp_AppDrawTo__ctor
+  commentId: M:BOOSEapp.AppDrawTo.#ctor
+  name.vb: New()
+  fullName: BOOSEapp.AppDrawTo.AppDrawTo()
+  fullName.vb: BOOSEapp.AppDrawTo.New()
+  nameWithType: AppDrawTo.AppDrawTo()
+  nameWithType.vb: AppDrawTo.New()
+- uid: BOOSEapp.AppDrawTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name: AppDrawTo(Canvas, int, int)
+  href: boose/BOOSEapp.AppDrawTo.html#BOOSEapp_AppDrawTo__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:BOOSEapp.AppDrawTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name.vb: New(Canvas, Integer, Integer)
+  fullName: BOOSEapp.AppDrawTo.AppDrawTo(BOOSE.Canvas, int, int)
+  fullName.vb: BOOSEapp.AppDrawTo.New(BOOSE.Canvas, Integer, Integer)
+  nameWithType: AppDrawTo.AppDrawTo(Canvas, int, int)
+  nameWithType.vb: AppDrawTo.New(Canvas, Integer, Integer)
+- uid: BOOSEapp.AppDrawTo.#ctor*
+  name: AppDrawTo
+  href: boose/BOOSEapp.AppDrawTo.html#BOOSEapp_AppDrawTo__ctor_
+  commentId: Overload:BOOSEapp.AppDrawTo.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEapp.AppDrawTo.AppDrawTo
+  fullName.vb: BOOSEapp.AppDrawTo.New
+  nameWithType: AppDrawTo.AppDrawTo
+  nameWithType.vb: AppDrawTo.New
+- uid: BOOSEapp.AppDrawTo.Execute
+  name: Execute()
+  href: boose/BOOSEapp.AppDrawTo.html#BOOSEapp_AppDrawTo_Execute
+  commentId: M:BOOSEapp.AppDrawTo.Execute
+  fullName: BOOSEapp.AppDrawTo.Execute()
+  nameWithType: AppDrawTo.Execute()
+- uid: BOOSEapp.AppDrawTo.Execute*
+  name: Execute
+  href: boose/BOOSEapp.AppDrawTo.html#BOOSEapp_AppDrawTo_Execute_
+  commentId: Overload:BOOSEapp.AppDrawTo.Execute
+  isSpec: "True"
+  fullName: BOOSEapp.AppDrawTo.Execute
+  nameWithType: AppDrawTo.Execute
+- uid: BOOSEapp.AppMoveTo
+  name: AppMoveTo
+  href: boose/BOOSEapp.AppMoveTo.html
+  commentId: T:BOOSEapp.AppMoveTo
+  fullName: BOOSEapp.AppMoveTo
+  nameWithType: AppMoveTo
+- uid: BOOSEapp.AppMoveTo.#ctor
+  name: AppMoveTo()
+  href: boose/BOOSEapp.AppMoveTo.html#BOOSEapp_AppMoveTo__ctor
+  commentId: M:BOOSEapp.AppMoveTo.#ctor
+  name.vb: New()
+  fullName: BOOSEapp.AppMoveTo.AppMoveTo()
+  fullName.vb: BOOSEapp.AppMoveTo.New()
+  nameWithType: AppMoveTo.AppMoveTo()
+  nameWithType.vb: AppMoveTo.New()
+- uid: BOOSEapp.AppMoveTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name: AppMoveTo(Canvas, int, int)
+  href: boose/BOOSEapp.AppMoveTo.html#BOOSEapp_AppMoveTo__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:BOOSEapp.AppMoveTo.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name.vb: New(Canvas, Integer, Integer)
+  fullName: BOOSEapp.AppMoveTo.AppMoveTo(BOOSE.Canvas, int, int)
+  fullName.vb: BOOSEapp.AppMoveTo.New(BOOSE.Canvas, Integer, Integer)
+  nameWithType: AppMoveTo.AppMoveTo(Canvas, int, int)
+  nameWithType.vb: AppMoveTo.New(Canvas, Integer, Integer)
+- uid: BOOSEapp.AppMoveTo.#ctor*
+  name: AppMoveTo
+  href: boose/BOOSEapp.AppMoveTo.html#BOOSEapp_AppMoveTo__ctor_
+  commentId: Overload:BOOSEapp.AppMoveTo.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEapp.AppMoveTo.AppMoveTo
+  fullName.vb: BOOSEapp.AppMoveTo.New
+  nameWithType: AppMoveTo.AppMoveTo
+  nameWithType.vb: AppMoveTo.New
+- uid: BOOSEapp.AppMoveTo.Execute
+  name: Execute()
+  href: boose/BOOSEapp.AppMoveTo.html#BOOSEapp_AppMoveTo_Execute
+  commentId: M:BOOSEapp.AppMoveTo.Execute
+  fullName: BOOSEapp.AppMoveTo.Execute()
+  nameWithType: AppMoveTo.Execute()
+- uid: BOOSEapp.AppMoveTo.Execute*
+  name: Execute
+  href: boose/BOOSEapp.AppMoveTo.html#BOOSEapp_AppMoveTo_Execute_
+  commentId: Overload:BOOSEapp.AppMoveTo.Execute
+  isSpec: "True"
+  fullName: BOOSEapp.AppMoveTo.Execute
+  nameWithType: AppMoveTo.Execute
+- uid: BOOSEapp.AppRect
+  name: AppRect
+  href: boose/BOOSEapp.AppRect.html
+  commentId: T:BOOSEapp.AppRect
+  fullName: BOOSEapp.AppRect
+  nameWithType: AppRect
+- uid: BOOSEapp.AppRect.#ctor
+  name: AppRect()
+  href: boose/BOOSEapp.AppRect.html#BOOSEapp_AppRect__ctor
+  commentId: M:BOOSEapp.AppRect.#ctor
+  name.vb: New()
+  fullName: BOOSEapp.AppRect.AppRect()
+  fullName.vb: BOOSEapp.AppRect.New()
+  nameWithType: AppRect.AppRect()
+  nameWithType.vb: AppRect.New()
+- uid: BOOSEapp.AppRect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name: AppRect(Canvas, int, int)
+  href: boose/BOOSEapp.AppRect.html#BOOSEapp_AppRect__ctor_BOOSE_Canvas_System_Int32_System_Int32_
+  commentId: M:BOOSEapp.AppRect.#ctor(BOOSE.Canvas,System.Int32,System.Int32)
+  name.vb: New(Canvas, Integer, Integer)
+  fullName: BOOSEapp.AppRect.AppRect(BOOSE.Canvas, int, int)
+  fullName.vb: BOOSEapp.AppRect.New(BOOSE.Canvas, Integer, Integer)
+  nameWithType: AppRect.AppRect(Canvas, int, int)
+  nameWithType.vb: AppRect.New(Canvas, Integer, Integer)
+- uid: BOOSEapp.AppRect.#ctor*
+  name: AppRect
+  href: boose/BOOSEapp.AppRect.html#BOOSEapp_AppRect__ctor_
+  commentId: Overload:BOOSEapp.AppRect.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEapp.AppRect.AppRect
+  fullName.vb: BOOSEapp.AppRect.New
+  nameWithType: AppRect.AppRect
+  nameWithType.vb: AppRect.New
+- uid: BOOSEapp.AppRect.Execute
+  name: Execute()
+  href: boose/BOOSEapp.AppRect.html#BOOSEapp_AppRect_Execute
+  commentId: M:BOOSEapp.AppRect.Execute
+  fullName: BOOSEapp.AppRect.Execute()
+  nameWithType: AppRect.Execute()
+- uid: BOOSEapp.AppRect.Execute*
+  name: Execute
+  href: boose/BOOSEapp.AppRect.html#BOOSEapp_AppRect_Execute_
+  commentId: Overload:BOOSEapp.AppRect.Execute
+  isSpec: "True"
+  fullName: BOOSEapp.AppRect.Execute
+  nameWithType: AppRect.Execute
+- uid: BOOSEapp.Form1
+  name: Form1
+  href: boose/BOOSEapp.Form1.html
+  commentId: T:BOOSEapp.Form1
+  fullName: BOOSEapp.Form1
+  nameWithType: Form1
+- uid: BOOSEapp.Form1.#ctor
+  name: Form1()
+  href: boose/BOOSEapp.Form1.html#BOOSEapp_Form1__ctor
+  commentId: M:BOOSEapp.Form1.#ctor
+  name.vb: New()
+  fullName: BOOSEapp.Form1.Form1()
+  fullName.vb: BOOSEapp.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: BOOSEapp.Form1.#ctor*
+  name: Form1
+  href: boose/BOOSEapp.Form1.html#BOOSEapp_Form1__ctor_
+  commentId: Overload:BOOSEapp.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BOOSEapp.Form1.Form1
+  fullName.vb: BOOSEapp.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: BOOSEapp.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: boose/BOOSEapp.Form1.html#BOOSEapp_Form1_Dispose_System_Boolean_
+  commentId: M:BOOSEapp.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: BOOSEapp.Form1.Dispose(bool)
+  fullName.vb: BOOSEapp.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: BOOSEapp.Form1.Dispose*
+  name: Dispose
+  href: boose/BOOSEapp.Form1.html#BOOSEapp_Form1_Dispose_
+  commentId: Overload:BOOSEapp.Form1.Dispose
+  isSpec: "True"
+  fullName: BOOSEapp.Form1.Dispose
+  nameWithType: Form1.Dispose

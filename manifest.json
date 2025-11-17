@@ -1,0 +1,126 @@
+{
+  "source_base_path": "C:/Users/fifia/source/repos/ase-boose-assignment-firdausarshed",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSEapp.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSEapp.AppCircle.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppCircle",
+      "Summary": "<p sourcefile=\"boose/BOOSEapp.AppCircle.yml\" sourcestartlinenumber=\"1\">command that draws a circle on the canvas</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSEapp.AppDrawTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSEapp.AppDrawTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppDrawTo",
+      "Summary": "<p sourcefile=\"boose/BOOSEapp.AppDrawTo.yml\" sourcestartlinenumber=\"1\">command that draws a line from current position to a new position</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSEapp.AppMoveTo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSEapp.AppMoveTo.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppMoveTo",
+      "Summary": "<p sourcefile=\"boose/BOOSEapp.AppMoveTo.yml\" sourcestartlinenumber=\"1\">command that moves the drawing cursor to a new position without drawing</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSEapp.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSEapp.AppRect.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.AppRect",
+      "Summary": "<p sourcefile=\"boose/BOOSEapp.AppRect.yml\" sourcestartlinenumber=\"1\">command that draws a rectangle on the canvas</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSEapp.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSEapp.Form1.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp.Form1",
+      "Summary": "<p sourcefile=\"boose/BOOSEapp.Form1.yml\" sourcestartlinenumber=\"1\">main form for the boose drawing application</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "boose/BOOSEapp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/BOOSEapp.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "BOOSEapp",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "boose/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "boose/toc.html"
+        },
+        ".json": {
+          "relative_path": "boose/toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
